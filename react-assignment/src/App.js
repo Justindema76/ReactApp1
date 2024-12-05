@@ -59,7 +59,7 @@ function App() {
           <thead>
             <tr>
             <th style={{ width: "75%" }}>Description</th>
-            <th style={{ width: "25%" }}>Done</th>
+            <th style={{ width: "25%" }}>Available</th>
             </tr>
           </thead>
           <tbody>{reservationTableRows()}</tbody>
@@ -73,7 +73,7 @@ function App() {
           <thead>
         <tr>
         <th style={{ width: "75%" }}>Description</th>
-        <th style={{ width: "25%" }}>Done</th>
+        <th style={{ width: "25%" }}>Booked</th>
         </tr>
         </thead>
           <tbody>{reservationTableRows(true)}</tbody>
