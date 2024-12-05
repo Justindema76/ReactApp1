@@ -1,6 +1,6 @@
 # ReactApp1
-ReactApp1
+Assignment #1
 
-### run this line to start app
-export NODE_OPTIONS=--openssl-legacy-provider 
-npm start
+### Run this line in order to start app
+-  export NODE_OPTIONS=--openssl-legacy-provider 
+-  npm start
