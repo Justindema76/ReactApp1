@@ -66,7 +66,7 @@ function App() {
     } catch (error) {
       console.error("Failed to load reservations:", error);
     }
-  }, []); // Dependency array to ensure this runs only once
+  }, []); 
 
   return (
     <div>
