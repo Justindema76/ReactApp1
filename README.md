@@ -1,5 +1,5 @@
 # ReactApp1 - PART 2
-Assignment #2
+## Assignment #2
 
 ### Added local storage functionality
 
